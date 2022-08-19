@@ -6,6 +6,14 @@
 
 ### Connect with me:
 
+<!-- 
+
+![image]() for images
+[]() for normal URLs
+[][] the 2nd [] contains shortnames defined at the bottom of the page?
+
+-->
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
